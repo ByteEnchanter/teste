@@ -16,7 +16,7 @@ Você recebeu um arquivo de texto com os dados de vendas dos produtos da empresa
 
 Sua aplicação web DEVE:
 
-1. Aceitar (via um formulário) o upload de arquivos com as seguintes colunas: DESCRICAO, PRECO, QTD, CLIENTE_NOME, CLIENTE_CPF_CNPJ, CLIENTE_ENDERECO. Você pode assumir que as colunas estarão sempre nesta ordem, que sempre haverá dados em cada coluna, e que sempre haverá uma linha de cabeçalho. Um arquivo de exemplo chamado vendas.txt está incluído neste repositório.
+1. Aceitar (via um formulário) o upload de arquivos com as seguintes colunas: DESCRICAO, PRECO, QTD, CLIENTE_NOME, CLIENTE_CPF_CNPJ, CLIENTE_ENDERECO. Você pode assumir que as colunas estarão sempre nesta ordem, que sempre haverá dados em cada coluna, e que sempre haverá uma linha de cabeçalho. Um arquivo de exemplo chamado _vendas.txt_ está incluído neste repositório.
 1. Interpretar ("parsear") o arquivo recebido, normalizar os dados, e salvar corretamente a informação em um banco de dados relacional.
 1. Exibir a receita bruta total representada pelo arquivo enviado após o upload + parser.
 1. Ser escrita obrigatoriamente em Java 8+.

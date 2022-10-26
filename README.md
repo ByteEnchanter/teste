@@ -8,7 +8,7 @@ Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quise
 
 1. Primeiro, faça um fork deste projeto para sua conta no gitlab.com (crie uma se você não possuir).
 1. Em seguida, implemente o projeto tal qual descrito abaixo, em seu próprio fork.
-1. Por fim, empurre todas as suas alterações para o seu fork no Github e envie um pull request para este repositório original.
+1. Por fim, empurre todas as suas alterações para o seu fork no Gitlab e envie um pull request para este repositório original.
 
 ## Descrição do projeto
 
